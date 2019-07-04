@@ -11,9 +11,10 @@ gem 'redis'
 gem 'autoprefixer-rails'
 gem 'font-awesome-sass', '~> 5.6.1'
 gem 'webpacker', '>= 4.0.x'
-#gem 'sassc-rails'
-#gem 'uglifier'
+gem 'sassc-rails'
+gem 'uglifier'
 #gem 'simple_form'
+gem 'bootstrap', '~> 4.1.3'
 
 group :development do
   gem 'web-console', '>= 3.3.0'
