@@ -14,7 +14,7 @@ gem 'webpacker', '>= 4.0.x'
 gem 'sassc-rails'
 gem 'uglifier'
 #gem 'simple_form'
-gem 'bootstrap', '~> 4.1.3'
+gem 'bootstrap', '~> 4.3.1'
 
 group :development do
   gem 'web-console', '>= 3.3.0'
