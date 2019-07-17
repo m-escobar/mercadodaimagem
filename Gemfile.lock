@@ -92,6 +92,7 @@ GEM
     nio4r (2.3.1)
     nokogiri (1.10.3)
       mini_portile2 (~> 2.4.0)
+    pg (0.21.0)
     popper_js (1.14.5)
     pry (0.12.2)
       coderay (~> 1.1.0)
@@ -188,6 +189,7 @@ DEPENDENCIES
   font-awesome-sass (~> 5.6.1)
   jbuilder (~> 2.0)
   listen (~> 3.1.5)
+  pg (~> 0.21)
   pry-byebug
   pry-rails
   puma
@@ -201,7 +203,7 @@ DEPENDENCIES
   webpacker (>= 4.0.x)
 
 RUBY VERSION
-   ruby 2.5.3p105
+   ruby 2.5.5p157
 
 BUNDLED WITH
-   2.0.1
+   2.0.2
