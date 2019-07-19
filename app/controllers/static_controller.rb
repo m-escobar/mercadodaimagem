@@ -10,4 +10,7 @@ class StaticController < ApplicationController
 
     def contact
     end
+
+    def products
+    end
 end
